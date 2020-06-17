@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 @font-face {
+  font-display: swap;
   font-family: 'Socicon';
   src:  url('../fonts/socicon.eot');
   src:  url('../fonts/socicon.eot?#iefix') format('embedded-opentype'),
